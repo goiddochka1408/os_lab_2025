@@ -1,0 +1,3 @@
+
+chmod +x average.sh
+./average.sh $(cat numbers.txt)
